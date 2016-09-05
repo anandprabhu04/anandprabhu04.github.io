@@ -1,5 +1,5 @@
-# anandprabhu04.github.io
+# Blog
 My personal blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
 ### License
-All this stuff is under the [MIT License]()
+All this stuff is under the [MIT License](https://github.com/anandprabhu04/anandprabhu04.github.io/blob/master/LICENSE)
